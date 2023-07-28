@@ -1,0 +1,39 @@
+body{
+    background-color: darkgray;
+}
+
+.flag{
+    background-color: rgb(rgb(49, 49, 49), green, blue);
+    width: 600px;
+    height: 200px;
+}
+
+#one, #two, #three, #four, #japaobranco{
+    height: 200px;
+    width: 600px;
+  background-color: yellow;
+}
+
+#two{
+    background-color: blue;
+}
+
+#three{
+    background-color: purple;
+}
+#four{
+    background-color: greenyellow;
+}
+#japaobranco{
+    background-color: rgb(241, 241, 241);
+    height: 400px;
+}
+#circulo{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 200px;
+    margin-left: 180px;
+    margin-top: -300px;
+   
+}
